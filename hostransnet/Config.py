@@ -32,7 +32,7 @@ task_name = 'GlaS'
 # task_name = 'DSB2018'
 # task_name = 'isbi2014'
 
-learning_rate = 1e-5
+learning_rate = 1e-3
 batch_size = 4
 
 # model_name = 'UKAN'
